@@ -8,7 +8,7 @@ I design, build and ship production SaaS products end-to-end: architecture, infr
 
 #### What I'm building
 
-**ZinoFlow** is a full-featured helpdesk and ITSM platform for SMBs and enterprise teams. Multi-tenant SaaS with an on-premise option. Built as a solo founder with a strong focus on architecture, security and long-term maintainability.
+**ZinoFlow** is a full-featured helpdesk and ITSM platform for SMBs and enterprise teams. Multi-tenant SaaS with an on-premise option. Built with a small team with a strong focus on architecture, security and long-term maintainability.
 
 **Core stack:** Next.js 15, TypeScript, PostgreSQL (Supabase), tRPC, Drizzle ORM, Stripe, Vercel
 
